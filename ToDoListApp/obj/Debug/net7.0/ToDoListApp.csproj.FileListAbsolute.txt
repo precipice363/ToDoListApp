@@ -1,0 +1,17 @@
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.csproj.AssemblyReference.cache
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.AssemblyInfoInputs.cache
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.AssemblyInfo.cs
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.csproj.CoreCompileInputs.cache
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/ToDoListApp
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/ToDoListApp.deps.json
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/ToDoListApp.runtimeconfig.json
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/ToDoListApp.dll
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/ToDoListApp.pdb
+/home/babalo/Personal/ToDoListApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.csproj.CopyComplete
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.dll
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/refint/ToDoListApp.dll
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.pdb
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ToDoListApp.genruntimeconfig.cache
+/home/babalo/Personal/ToDoListApp/obj/Debug/net7.0/ref/ToDoListApp.dll

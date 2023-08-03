@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F5YSK6F+8gOEafGKJ+SGPQOWzLTk/b+U48utexW01qS49MiTsKO8nzXsXH8wDoXpLtSSiOCZGPr07Rip5KzL1Q==",
+  "success": true,
+  "projectFilePath": "/home/babalo/Personal/ToDoListApp/ToDoListApp.csproj",
+  "expectedPackageFiles": [
+    "/home/babalo/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
